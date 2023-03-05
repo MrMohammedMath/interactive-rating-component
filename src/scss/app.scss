@@ -1,0 +1,12 @@
+@import 'global';
+@import 'rating';
+
+body{
+    background-color: var(--Very-Dark-Blue);
+}
+
+#root{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
